@@ -10,7 +10,7 @@ gem "rails", "~> 7.0.7"
 gem "faker"
 
 # Gema Annotater"
-gem 'Annotate'
+gem 'annotate'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
