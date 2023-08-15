@@ -9,6 +9,7 @@
 #  created_at      :datetime         not null
 #  updated_at      :datetime         not null
 #  Ibu             :float
+#  yeast           :float
 #
 class Beer < ApplicationRecord
 end
