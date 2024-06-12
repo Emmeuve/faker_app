@@ -7,7 +7,7 @@ ruby "3.2.2"
 gem "rails", "~> 7.0.7"
 
 # Gema Faker
-# gem "faker"
+gem "faker"
 
 # Gema Annotate"
 gem 'annotate'
@@ -78,6 +78,5 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
-gem "faker", "~> 4.9"
 gem "friendly_id", "~> 5.4"
 gem "kaminari", "~> 1.2"
